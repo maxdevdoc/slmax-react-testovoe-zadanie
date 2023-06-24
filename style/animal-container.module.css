@@ -1,0 +1,4 @@
+.container_for_animals{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

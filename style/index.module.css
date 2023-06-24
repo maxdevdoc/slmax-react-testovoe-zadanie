@@ -1,0 +1,58 @@
+.container{
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name_page{
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.block_category {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block_category_cats img{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;;
+}
+
+.block_category_dogs img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.block_category_cats h3 {
+    text-align: center;
+}
+.block_category_dogs{
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.block_category_dogs h3 {
+    text-align: center;
+}
+
+.block_category_dogs:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+}
+
+.block_category_cats {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.block_category_cats:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+}

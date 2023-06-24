@@ -1,0 +1,24 @@
+.footer_wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+    margin-top: 15%;
+    box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo_footer {
+    font-size: 30px;
+    color: #000;
+    margin-right: 20px;
+}
+
+.logo_footer:hover {
+    color: #00bfff;
+}
+
+.copy_style {
+    font-size: 16px;
+    color: #000;
+}

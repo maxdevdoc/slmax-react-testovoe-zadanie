@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Mark",
+      "image": "/images/mark_cat.jpg",
+      "view": "cat"
+    },
+    {
+      "id": 2,
+      "name": "Pit",
+      "image": "/images/pit_cat.jpg",
+      "view": "cat"
+    },
+    {
+      "id": 3,
+      "name": "Leo",
+      "image": "/images/leo_cat.jpg",
+      "view": "cat"
+    },
+    {
+      "id": 4,
+      "name": "Max",
+      "image": "/images/max_dog.jpg",
+      "view": "dog"
+    },
+    {
+      "id": 5,
+      "name": "Rick",
+      "image": "/images/rick_dog.jpg",
+      "view": "dog"
+    },
+    {
+      "id": 6,
+      "name": "Toni",
+      "image": "/images/mark_cat.jpg",
+      "view": "cat"
+    },
+    {
+      "id": 7,
+      "name": "Toni",
+      "image": "/images/mark_cat.jpg",
+      "view": "dog"
+    }
+  ]
+}
